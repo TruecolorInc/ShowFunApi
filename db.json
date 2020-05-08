@@ -1,24 +1,22 @@
 {
-    "hot": {
-        "tabs": {
-            "status": "success",
-            "data": [
-                {
-                    "id": "id1",
-                    "tab_name": "标签1"
-                },
-                {
-                    "id": "id2",
-                    "tab_name": "标签2"
-                },
-                {
-                    "tab_name": "标签3"
-                },
-                {
-                    "id": "id4",
-                    "tab_name": "标签4"
-                }
-            ]
-        }
+    "hotTabs": {
+        "status": "success",
+        "data": [
+            {
+                "id": "id1",
+                "tab_name": "标签1"
+            },
+            {
+                "id": "id2",
+                "tab_name": "标签2"
+            },
+            {
+                "tab_name": "标签3"
+            },
+            {
+                "id": "id4",
+                "tab_name": "标签4"
+            }
+        ]
     }
 }
