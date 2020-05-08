@@ -38,5 +38,168 @@
                 "tab_name": "标签4"
             }
         ]
+    },
+    "hotLists": {
+        "status": "success",
+        "timestamp": 1587526674,
+        "data": [
+            {
+                "type": "banner_card",
+                "data": {
+                    "banners": [
+                        {
+                            "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqm1qr5gj20qr0eoh1m.jpg",
+                            "action_url": "http://wwww.baidu.com"
+                        },
+                        {
+                            "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1gearokqae0j20df07cdh3.jpg",
+                            "action_url": "http://wwww.baidu.com"
+                        },
+                        {
+                            "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqm1qr5gj20qr0eoh1m.jpg",
+                            "action_url": "http://wwww.baidu.com"
+                        },
+                        {
+                            "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1gearokqae0j20df07cdh3.jpg",
+                            "action_url": "http://wwww.baidu.com"
+                        },
+                        {
+                            "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqm1qr5gj20qr0eoh1m.jpg",
+                            "action_url": "http://wwww.baidu.com"
+                        },
+                        {
+                            "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1gearokqae0j20df07cdh3.jpg",
+                            "action_url": "http://wwww.baidu.com"
+                        },
+                        {
+                            "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqm1qr5gj20qr0eoh1m.jpg",
+                            "action_url": "http://wwww.baidu.com"
+                        },
+                        {
+                            "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1gearokqae0j20df07cdh3.jpg",
+                            "action_url": "http://wwww.baidu.com"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "title_card",
+                "data": {
+                    "name": "编辑推荐1",
+                    "action_url": "http://wwww.baidu.com"
+                }
+            },
+            {
+                "type": "tow_column_card",
+                "data": {
+                    "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1gearoflizjj20df07cdmu.jpg",
+                    "title": "小子做好觉悟吧!",
+                    "action_url": ""
+                }
+            },
+            {
+                "type": "tow_column_card",
+                "data": {
+                    "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1gearokqae0j20df07cdh3.jpg",
+                    "title": "小子做好觉悟吧!",
+                    "action_url": ""
+                }
+            },
+            {
+                "type": "tow_column_card",
+                "data": {
+                    "image_url": "",
+                    "title": "小子做好觉悟吧!小子做好觉悟吧!小子做好觉悟吧!小子做好觉悟吧!小子做好觉悟吧!小子做好觉悟吧!",
+                    "action_url": ""
+                }
+            },
+            {
+                "type": "one_column_card",
+                "data": {
+                    "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1gearotjgh2j20rx08cn5i.jpg",
+                    "action_url": "http://wwww.baidu.com"
+                }
+            },
+            {
+                "type": "title_card",
+                "data": {
+                    "name": "编辑推荐"
+                }
+            },
+            {
+                "type": "three_column_card",
+                "data": {
+                    "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqlcel05j208i0b60vq.jpg",
+                    "title": "校园纯情剧",
+                    "sub_title": "推荐",
+                    "action_url": ""
+                }
+            },
+            {
+                "type": "three_column_card",
+                "data": {
+                    "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaql6nhhrj208i0b6tc0.jpg",
+                    "title": "校园纯情剧",
+                    "action_url": ""
+                }
+            },
+            {
+                "type": "three_column_card",
+                "data": {
+                    "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaql06omlj208i0b6jvu.jpg",
+                    "title": "校园纯情剧",
+                    "sub_title": "推荐",
+                    "action_url": ""
+                }
+            },
+            {
+                "type": "three_column_card",
+                "data": {
+                    "image_url": "",
+                    "title": "校园纯情剧校园纯情剧校园纯情剧校园纯情剧校园纯情剧校园纯情剧校园纯情剧",
+                    "sub_title": "推荐推荐推荐推荐推荐推荐推荐推荐推荐推荐推荐推荐推荐推荐推荐推荐推荐",
+                    "action_url": ""
+                }
+            },
+            {
+                "type": "title_card",
+                "data": {
+                    "name": "编辑推荐3"
+                }
+            },
+            {
+                "type": "left_image_right_description_card",
+                "data": {
+                    "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqgam0pij20a00d010b.jpg",
+                    "favorite_status": true,
+                    "video_name": "王牌校草",
+                    "video_description": "作品简介最多3行",
+                    "tag": "推荐 纯爱 休闲",
+                    "action_url": "http://wwww.baidu.com"
+                }
+            },
+            {
+                "type": "left_image_right_description_card",
+                "data": {
+                    "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqgam0pij20a00d010b.jpg",
+                    "favorite_status": true,
+                    "video_name": "王牌校草",
+                    "video_description": "作品简介最多3行多余内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介",
+                    "tag": "推荐 纯爱 休闲",
+                    "action_url": "http://wwww.baidu.com"
+                }
+            },
+            {
+                "type": "left_image_right_description_card",
+                "data": {
+                    "image_url": "",
+                    "favorite_status": true,
+                    "video_name": "王牌校草 王牌校草 王牌校草 王牌校草 王牌校草",
+                    "video_description": "作品简介最多3行多余内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介",
+                    "tag": "推荐 纯爱 休闲 推荐 纯爱 休闲 推荐 纯爱 休闲",
+                    "action_url": "http://wwww.baidu.com"
+                }
+            }
+        ]
     }
 }
