@@ -1,4 +1,24 @@
 {
+    "homeTabs": {
+        "status": "success",
+        "data": [
+            {
+                "id": "arg1",
+                "type": "favorite_type",
+                "tab_name": "追番"
+            },
+            {
+                "id": "arg2",
+                "type": "recomment_type",
+                "tab_name": "推荐"
+            },
+            {
+                "id": "id1",
+                "type": "hot_type",
+                "tab_name": "热门"
+            }
+        ]
+    },
     "hotTabs": {
         "status": "success",
         "data": [
