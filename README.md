@@ -8,3 +8,7 @@ Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access 
 https://github.com/xuxu5112/ShowFunApi
 
 https://my-json-server.typicode.com/xuxu5112/ShowFunApi
+
+1. 获取此项目的提交权限
+2. 修改db.json
+3. 访问https://my-json-server.typicode.com/xuxu5112/ShowFunApi (有1min的缓存)
