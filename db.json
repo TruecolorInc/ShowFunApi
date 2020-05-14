@@ -238,7 +238,190 @@
             }
         ]
     },
-    "detailInfo": {
-        "id": "id1"
+    "detailInfo":{
+        "status": "success",
+        "data": [
+            {
+                "type": "detail_info",
+                "data": {
+                    "video_id": "1001",
+                    "name": "画中仙",
+                    "image_url":"http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                    "author": "三人行",
+                    "episode_count": 28,
+                    "update_status_description": "更新至28集",
+                    "description": "#古风 #玄幻 #虐恋 相传,有以为年轻画师，擅画女子肖像，古人云，世有画者，绘画如神，画亦有灵，其为画中仙。",
+                    "like_count": 301,
+                    "favorite_count": 17000,
+                    "episodes": [
+                        {
+                            "episode_id": "1",
+                            "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                            "episode_description": "第1集"
+                        },
+                        {
+                            "episode_id": "2",
+                            "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                            "episode_description": "第2集"
+                        },
+                        {
+                            "episode_id": "3",
+                            "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                            "episode_description": "第3集"
+                        },
+                        {
+                            "episode_id": "4",
+                            "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                            "episode_description": "第4集"
+                        },
+                        {
+                            "episode_id": "5",
+                            "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                            "episode_description": "第5集"
+                        },
+                        {
+                            "episode_id": "6",
+                            "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                            "episode_description": "第6集"
+                        },
+                        {
+                            "episode_id": "7",
+                            "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                            "episode_description": "第7集"
+                        },
+                        {
+                            "episode_id": "8",
+                            "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                            "episode_description": "第8集"
+                        },
+                        {
+                            "episode_id": "9",
+                            "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                            "episode_description": "第9集"
+                        },
+                        {
+                            "episode_id": "10",
+                            "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                            "episode_description": "第10集"
+                        }
+                    ]
+                }
+            },
+            {
+                "type": "detail_other_video_title",
+                "data": {
+                    "title": "作者其他作品"
+                }
+            },
+            {
+                "type": "detail_other_video",
+                "data": {
+                    "video_id": "3",
+                    "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                    "title": "王牌校草",
+                    "sub_title": "推荐 纯爱 哈哈"
+                }
+            },
+            {
+                "type": "detail_other_video",
+                "data": {
+                    "video_id": "3",
+                    "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                    "title": "王牌校草",
+                    "sub_title": "推荐 纯爱 哈哈"
+                }
+            },
+            {
+                "type": "detail_other_video",
+                "data": {
+                    "video_id": "3",
+                    "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                    "title": "王牌校草",
+                    "sub_title": "推荐 纯爱 哈哈"
+                }
+            },
+            {
+                "type": "detail_other_video",
+                "data": {
+                    "video_id": "3",
+                    "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                    "title": "王牌校草",
+                    "sub_title": "推荐 纯爱 哈哈"
+                }
+            },
+            {
+                "type": "detail_other_video",
+                "data": {
+                    "video_id": "3",
+                    "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                    "title": "王牌校草",
+                    "sub_title": "推荐 纯爱 哈哈"
+                }
+            },
+            {
+                "type": "detail_other_video",
+                "data": {
+                    "video_id": "3",
+                    "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                    "title": "王牌校草",
+                    "sub_title": "推荐 纯爱 哈哈"
+                }
+            }
+        ]
+    },
+    "detailEpisode":{
+        "status": "success",
+        "data": [
+            {
+                "episode_id": "1",
+                "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                "episode_description": "第1集"
+            },
+            {
+                "episode_id": "2",
+                "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                "episode_description": "第2集"
+            },
+            {
+                "episode_id": "3",
+                "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                "episode_description": "第3集"
+            },
+            {
+                "episode_id": "4",
+                "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                "episode_description": "第4集"
+            },
+            {
+                "episode_id": "5",
+                "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                "episode_description": "第5集"
+            },
+            {
+                "episode_id": "6",
+                "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                "episode_description": "第6集"
+            },
+            {
+                "episode_id": "7",
+                "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                "episode_description": "第7集"
+            },
+            {
+                "episode_id": "8",
+                "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                "episode_description": "第8集"
+            },
+            {
+                "episode_id": "9",
+                "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                "episode_description": "第9集"
+            },
+            {
+                "episode_id": "10",
+                "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                "episode_description": "第10集"
+            }
+        ]
     }
 }

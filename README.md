@@ -26,3 +26,5 @@ http://118.25.63.125:3000/
 - 热门列表: https://my-json-server.typicode.com/xuxu5112/ShowFunApi/hotLists
 - 追番接口: https://my-json-server.typicode.com/xuxu5112/ShowFunApi/favoriteLists
 - 详情页信息接口：https://my-json-server.typicode.com/xuxu5112/ShowFunApi/detailInfo
+- 详情页分集接口：https://my-json-server.typicode.com/xuxu5112/ShowFunApi/detailEpisode
+
