@@ -238,11 +238,12 @@
             }
         ]
     },
-    "detailInfo":{
+    "detailInfo": {
         "status": "success",
         "data": {
             "title": "作品名",
-            "data": [{
+            "data": [
+                {
                     "type": "detail_info",
                     "data": {
                         "video_id": "1001",
@@ -254,7 +255,8 @@
                         "description": "#古风 #玄幻 #虐恋 相传,有以为年轻画师，擅画女子肖像，古人云，世有画者，绘画如神，画亦有灵，其为画中仙。",
                         "like_count": 301,
                         "favorite_count": 17000,
-                        "episodes": [{
+                        "episodes": [
+                            {
                                 "episode_id": "1",
                                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
                                 "episode_description": "第1集"
@@ -370,7 +372,7 @@
             ]
         }
     },
-    "detailEpisode":{
+    "detailEpisode": {
         "status": "success",
         "data": [
             {
@@ -424,5 +426,8 @@
                 "episode_description": "第10集"
             }
         ]
+    },
+    "webhook": {
+        "status": "ok"
     }
 }
