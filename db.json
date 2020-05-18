@@ -627,5 +627,67 @@
                 ]
             }
         ]
+    },
+    "videoEpisodes": {
+        "status": "success",
+        "message": "success",
+        "error_code": 200,
+        "data": [
+            {
+                "like": 1,
+                "comment": 1,
+                "episode_num": 0,
+                "episode_name": "第一集 特殊的小病人",
+                "cover_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqm1qr5gj20qr0eoh1m.jpg",
+                "player_info": {
+                    "play_url": "http://192.168.1.10:8081/private/video/0/1-k1i4ixmx/hls/k1xy19diniu5dnfe.m3u8",
+                    "aspect_ratio": "16:9"
+                }
+            },
+            {
+                "like": 1,
+                "comment": 1,
+                "episode_num": 1,
+                "episode_name": "第二集 特殊的小病人",
+                "cover_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqm1qr5gj20qr0eoh1m.jpg",
+                "player_info": {
+                    "play_url": "http://192.168.1.10:8081/private/video/0/1-k1i4ixmx/hls/k1xy19diniu5dnfe.m3u8",
+                    "aspect_ratio": "16:9"
+                }
+            },
+            {
+                "like": 1,
+                "comment": 1,
+                "episode_num": 2,
+                "episode_name": "第三集 特殊的小病人",
+                "cover_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqm1qr5gj20qr0eoh1m.jpg",
+                "player_info": {
+                    "play_url": "http://192.168.1.10:8081/private/video/0/1-k1i4ixmx/hls/k1xy19diniu5dnfe.m3u8",
+                    "aspect_ratio": "16:9"
+                }
+            },
+            {
+                "like": 1,
+                "comment": 1,
+                "episode_num": 3,
+                "episode_name": "第四集 特殊的小病人",
+                "cover_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqm1qr5gj20qr0eoh1m.jpg",
+                "player_info": {
+                    "play_url": "http://192.168.1.10:8081/private/video/0/1-k1i4ixmx/hls/k1xy19diniu5dnfe.m3u8",
+                    "aspect_ratio": "16:9"
+                }
+            },
+            {
+                "like": 1,
+                "comment": 1,
+                "episode_num": 4,
+                "episode_name": "第五集 特殊的小病人",
+                "cover_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqm1qr5gj20qr0eoh1m.jpg",
+                "player_info": {
+                    "play_url": "http://qa8zng5jv.bkt.clouddn.com/hls/3058/xsquucfe14zemzey.m3u8",
+                    "aspect_ratio": "16:9"
+                }
+            }
+        ]
     }
 }
