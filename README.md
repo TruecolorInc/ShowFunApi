@@ -8,7 +8,7 @@ http://118.25.63.125:3000/
 
 
 1. 获取此项目的提交权限
-2. 修改db.json 
+2. 修改db.json  
 
 # 接口文档
 - 首页顶部tab: https://my-json-server.typicode.com/xuxu5112/ShowFunApi/homeTabs
