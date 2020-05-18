@@ -427,7 +427,7 @@
             }
         ]
     },
-    "webhook": {
+    "webhookApi": {
         "status": "ok"
     }
 }
