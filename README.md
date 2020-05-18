@@ -1,14 +1,6 @@
 # ShowFunApi
 use json-server to mock
 
-https://my-json-server.typicode.com/
-
-Visit https://my-json-server.typicode.com/<your-username>/<your-repo> to access your server
-
-https://github.com/TruecolorInc/ShowFunApi
-
-https://my-json-server.typicode.com/TruecolorInc/ShowFunApi
-
 
 
 http://118.25.63.125:3000/
@@ -17,8 +9,6 @@ http://118.25.63.125:3000/
 
 1. 获取此项目的提交权限
 2. 修改db.json
-3. 访问https://my-json-server.typicode.com/TruecolorInc/ShowFunApi (有1min的缓存)
-4. 更新接口文档
 
 # 接口文档
 - 首页顶部tab: https://my-json-server.typicode.com/xuxu5112/ShowFunApi/homeTabs
