@@ -257,54 +257,147 @@
                         "favorite_count": 17000,
                         "episodes": [
                             {
-                                "episode_id": "1",
+                                "id": 1,
+                                "like": 1,
+                                "comment": 1,
+                                "episode_num": 1,
+                                "episode_name": "特殊小病人",
                                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                                "episode_description": "第1集"
+                                "player_info": {
+                                    "play_url": "http://xxx",
+                                    "subtitle_url": "http://xx",
+                                    "aspect_ratio": "16:9"
+                                }
                             },
                             {
-                                "episode_id": "2",
+                                "id": 2,
+                                "like": 1,
+                                "comment": 1,
+                                "episode_num": 1,
+                                "episode_name": "特殊小病人",
                                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                                "episode_description": "第2集"
+                                "player_info": {
+                                    "play_url": "http://xxx",
+                                    "subtitle_url": "http://xx",
+                                    "aspect_ratio": "16:9"
+                                }
                             },
                             {
-                                "episode_id": "3",
+                                "id": 3,
+                                "like": 1,
+                                "comment": 1,
+                                "episode_num": 1,
+                                "episode_name": "特殊小病人",
                                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                                "episode_description": "第3集"
+                                "player_info": {
+                                    "play_url": "http://xxx",
+                                    "subtitle_url": "http://xx",
+                                    "aspect_ratio": "16:9"
+                                }
                             },
                             {
-                                "episode_id": "4",
+                                "id": 4,
+                                "like": 1,
+                                "comment": 1,
+                                "episode_num": 1,
+                                "episode_name": "特殊小病人",
                                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                                "episode_description": "第4集"
+                                "player_info": {
+                                    "play_url": "http://xxx",
+                                    "subtitle_url": "http://xx",
+                                    "aspect_ratio": "16:9"
+                                }
                             },
                             {
-                                "episode_id": "5",
+                                "id": 1,
+                                "like": 1,
+                                "comment": 1,
+                                "episode_num": 1,
+                                "episode_name": "特殊小病人",
                                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                                "episode_description": "第5集"
+                                "player_info": {
+                                    "play_url": "http://xxx",
+                                    "subtitle_url": "http://xx",
+                                    "aspect_ratio": "16:9"
+                                }
                             },
                             {
-                                "episode_id": "6",
+                                "id": 1,
+                                "like": 1,
+                                "comment": 1,
+                                "episode_num": 1,
+                                "episode_name": "特殊小病人",
                                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                                "episode_description": "第6集"
+                                "player_info": {
+                                    "play_url": "http://xxx",
+                                    "subtitle_url": "http://xx",
+                                    "aspect_ratio": "16:9"
+                                }
                             },
                             {
-                                "episode_id": "7",
+                                "id": 1,
+                                "like": 1,
+                                "comment": 1,
+                                "episode_num": 1,
+                                "episode_name": "特殊小病人",
                                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                                "episode_description": "第7集"
+                                "player_info": {
+                                    "play_url": "http://xxx",
+                                    "subtitle_url": "http://xx",
+                                    "aspect_ratio": "16:9"
+                                }
                             },
                             {
-                                "episode_id": "8",
+                                "id": 1,
+                                "like": 1,
+                                "comment": 1,
+                                "episode_num": 1,
+                                "episode_name": "特殊小病人",
                                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                                "episode_description": "第8集"
+                                "player_info": {
+                                    "play_url": "http://xxx",
+                                    "subtitle_url": "http://xx",
+                                    "aspect_ratio": "16:9"
+                                }
                             },
                             {
-                                "episode_id": "9",
+                                "id": 1,
+                                "like": 1,
+                                "comment": 1,
+                                "episode_num": 1,
+                                "episode_name": "特殊小病人",
                                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                                "episode_description": "第9集"
+                                "player_info": {
+                                    "play_url": "http://xxx",
+                                    "subtitle_url": "http://xx",
+                                    "aspect_ratio": "16:9"
+                                }
                             },
                             {
-                                "episode_id": "10",
+                                "id": 1,
+                                "like": 1,
+                                "comment": 1,
+                                "episode_num": 1,
+                                "episode_name": "特殊小病人",
                                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                                "episode_description": "第10集"
+                                "player_info": {
+                                    "play_url": "http://xxx",
+                                    "subtitle_url": "http://xx",
+                                    "aspect_ratio": "16:9"
+                                }
+                            },
+                            {
+                                "id": 1,
+                                "like": 1,
+                                "comment": 1,
+                                "episode_num": 1,
+                                "episode_name": "特殊小病人",
+                                "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
+                                "player_info": {
+                                    "play_url": "http://xxx",
+                                    "subtitle_url": "http://xx",
+                                    "aspect_ratio": "16:9"
+                                }
                             }
                         ]
                     }
@@ -376,54 +469,134 @@
         "status": "success",
         "data": [
             {
-                "episode_id": "1",
+                "id": 1,
+                "like": 1,
+                "comment": 1,
+                "episode_num": 1,
+                "episode_name": "特殊小病人",
                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                "episode_description": "第1集"
+                "player_info": {
+                    "play_url": "http://xxx",
+                    "subtitle_url": "http://xx",
+                    "aspect_ratio": "16:9"
+                }
             },
             {
-                "episode_id": "2",
+                "id": 1,
+                "like": 1,
+                "comment": 1,
+                "episode_num": 1,
+                "episode_name": "特殊小病人",
                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                "episode_description": "第2集"
+                "player_info": {
+                    "play_url": "http://xxx",
+                    "subtitle_url": "http://xx",
+                    "aspect_ratio": "16:9"
+                }
             },
             {
-                "episode_id": "3",
+                "id": 1,
+                "like": 1,
+                "comment": 1,
+                "episode_num": 1,
+                "episode_name": "特殊小病人",
                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                "episode_description": "第3集"
+                "player_info": {
+                    "play_url": "http://xxx",
+                    "subtitle_url": "http://xx",
+                    "aspect_ratio": "16:9"
+                }
             },
             {
-                "episode_id": "4",
+                "id": 1,
+                "like": 1,
+                "comment": 1,
+                "episode_num": 1,
+                "episode_name": "特殊小病人",
                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                "episode_description": "第4集"
+                "player_info": {
+                    "play_url": "http://xxx",
+                    "subtitle_url": "http://xx",
+                    "aspect_ratio": "16:9"
+                }
             },
             {
-                "episode_id": "5",
+                "id": 1,
+                "like": 1,
+                "comment": 1,
+                "episode_num": 1,
+                "episode_name": "特殊小病人",
                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                "episode_description": "第5集"
+                "player_info": {
+                    "play_url": "http://xxx",
+                    "subtitle_url": "http://xx",
+                    "aspect_ratio": "16:9"
+                }
             },
             {
-                "episode_id": "6",
+                "id": 1,
+                "like": 1,
+                "comment": 1,
+                "episode_num": 1,
+                "episode_name": "特殊小病人",
                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                "episode_description": "第6集"
+                "player_info": {
+                    "play_url": "http://xxx",
+                    "subtitle_url": "http://xx",
+                    "aspect_ratio": "16:9"
+                }
             },
             {
-                "episode_id": "7",
+                "id": 1,
+                "like": 1,
+                "comment": 1,
+                "episode_num": 1,
+                "episode_name": "特殊小病人",
                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                "episode_description": "第7集"
+                "player_info": {
+                    "play_url": "http://xxx",
+                    "subtitle_url": "http://xx",
+                    "aspect_ratio": "16:9"
+                }
             },
             {
-                "episode_id": "8",
+                "id": 1,
+                "like": 1,
+                "comment": 1,
+                "episode_num": 1,
+                "episode_name": "特殊小病人",
                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                "episode_description": "第8集"
+                "player_info": {
+                    "play_url": "http://xxx",
+                    "subtitle_url": "http://xx",
+                    "aspect_ratio": "16:9"
+                }
             },
             {
-                "episode_id": "9",
+                "id": 1,
+                "like": 1,
+                "comment": 1,
+                "episode_num": 1,
+                "episode_name": "特殊小病人",
                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                "episode_description": "第9集"
+                "player_info": {
+                    "play_url": "http://xxx",
+                    "subtitle_url": "http://xx",
+                    "aspect_ratio": "16:9"
+                }
             },
             {
-                "episode_id": "10",
+                "id": 1,
+                "like": 1,
+                "comment": 1,
+                "episode_num": 1,
+                "episode_name": "特殊小病人",
                 "image_url": "http://hant.pic.akemanga.com/images/project/cartoons/01753c2a3d564faf6047678a122f9539.jpg",
-                "episode_description": "第10集"
+                "player_info": {
+                    "play_url": "http://xxx",
+                    "subtitle_url": "http://xx",
+                    "aspect_ratio": "16:9"
+                }
             }
         ]
     },
