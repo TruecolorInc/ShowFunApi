@@ -268,7 +268,38 @@
                     "video_name": "王牌校草",
                     "video_description": "作品简介最多3行",
                     "tag": "推荐 纯爱 休闲",
-                    "action_url": "http://wwww.baidu.com"
+                    "action_url": "http://wwww.baidu.com",
+                    "video_info": {
+                        "video_id": 10,
+                        "video_title": "往日不成往事",
+                        "followed": 0,
+                        "image_url": "http://pic.qiniu.showfun.mobi/images/project/videos/10/ede57804192b5f87743ef2f268eddcd7.jpg.webp",
+                        "author": "",
+                        "episode_count": 3,
+                        "update_status_description": "更新至3集",
+                        "description": "祝氏和邓氏的家族生意以儿女的婚姻为筹码，祝笙和邓邵涵两人由此开始了复杂的感情生活。",
+                        "like_count": 0,
+                        "favorite_count": 0,
+                        "episodes": [
+                            {
+                                "id": 336,
+                                "like": 0,
+                                "is_like": 0,
+                                "comment": 0,
+                                "episode_num": 0,
+                                "episode_name": "第1集 他好帅啊",
+                                "image_url": "",
+                                "player_info": {
+                                    "play_url": "http://video.qiniu.showfun.mobi/149-sc86/hls/dp77.m3u8",
+                                    "aspect_ratio": "9:16",
+                                    "type": "hls",
+                                    "subtitle_url": "",
+                                    "backup_list": []
+                                }
+                            }
+                        ],
+                        "tag_str": "豪门 婚恋"
+                    }
                 }
             },
             {
@@ -279,7 +310,38 @@
                     "video_name": "王牌校草",
                     "video_description": "作品简介最多3行多余内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介",
                     "tag": "推荐 纯爱 休闲",
-                    "action_url": "http://wwww.baidu.com"
+                    "action_url": "http://wwww.baidu.com",
+                    "video_info": {
+                        "video_id": 10,
+                        "video_title": "往日不成往事",
+                        "followed": 0,
+                        "image_url": "http://pic.qiniu.showfun.mobi/images/project/videos/10/ede57804192b5f87743ef2f268eddcd7.jpg.webp",
+                        "author": "",
+                        "episode_count": 3,
+                        "update_status_description": "更新至3集",
+                        "description": "祝氏和邓氏的家族生意以儿女的婚姻为筹码，祝笙和邓邵涵两人由此开始了复杂的感情生活。",
+                        "like_count": 0,
+                        "favorite_count": 0,
+                        "episodes": [
+                            {
+                                "id": 336,
+                                "like": 0,
+                                "is_like": 0,
+                                "comment": 0,
+                                "episode_num": 0,
+                                "episode_name": "第1集 他好帅啊",
+                                "image_url": "",
+                                "player_info": {
+                                    "play_url": "http://video.qiniu.showfun.mobi/149-sc86/hls/dp77.m3u8",
+                                    "aspect_ratio": "9:16",
+                                    "type": "hls",
+                                    "subtitle_url": "",
+                                    "backup_list": []
+                                }
+                            }
+                        ],
+                        "tag_str": "豪门 婚恋"
+                    }
                 }
             },
             {
