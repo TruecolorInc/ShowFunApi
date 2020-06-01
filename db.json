@@ -110,7 +110,7 @@
                             {
                                 "id": 336,
                                 "like": 0,
-                                "is_like": false,
+                                "is_like": 0,
                                 "comment": 0,
                                 "episode_num": 0,
                                 "episode_name": "第1集 他好帅啊",
@@ -149,7 +149,7 @@
                             {
                                 "id": 3,
                                 "like": 0,
-                                "is_like": false,
+                                "is_like": 0,
                                 "comment": 0,
                                 "episode_num": 0,
                                 "episode_name": "第1集 上学",
@@ -210,7 +210,7 @@
                             {
                                 "id": 77,
                                 "like": 0,
-                                "is_like": false,
+                                "is_like": 0,
                                 "comment": 0,
                                 "episode_num": 0,
                                 "episode_name": "第1集 穿越",
@@ -325,7 +325,7 @@
                         {
                             "id": 336,
                             "like": 0,
-                            "is_like": false,
+                            "is_like": 0,
                             "comment": 0,
                             "episode_num": 0,
                             "episode_name": "第1集 他好帅啊",
@@ -368,7 +368,7 @@
                         {
                             "id": 3,
                             "like": 0,
-                            "is_like": false,
+                            "is_like": 1,
                             "comment": 0,
                             "episode_num": 0,
                             "episode_name": "第1集 上学",
@@ -417,7 +417,7 @@
                         {
                             "id": 336,
                             "like": 0,
-                            "is_like": false,
+                            "is_like": 0,
                             "comment": 0,
                             "episode_num": 0,
                             "episode_name": "第1集 他好帅啊",
@@ -460,7 +460,7 @@
                         {
                             "id": 3,
                             "like": 0,
-                            "is_like": false,
+                            "is_like": 0,
                             "comment": 0,
                             "episode_num": 0,
                             "episode_name": "第1集 上学",
