@@ -5,17 +5,17 @@
             {
                 "id": "arg1",
                 "type": "favorite_type",
-                "tab_name": "追番"
+                "title": "追番"
             },
             {
                 "id": "arg2",
                 "type": "recommend_type",
-                "tab_name": "推荐"
+                "title": "推荐"
             },
             {
-                "id": "id1",
+                "id": "1",
                 "type": "hot_type",
-                "tab_name": "热门"
+                "title": "热门"
             }
         ]
     },
