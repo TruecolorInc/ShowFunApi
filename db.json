@@ -1,4 +1,24 @@
 {
+    "specialGroups": {
+        "status": "success",
+        "data": [
+            {
+                "type": "favorite_type",
+                "title": "追番"
+            },
+            {
+                "type": "recommend_type",
+                "title": "推荐"
+            },
+            {
+                "type": "hot_type",
+                "title": "热门",
+                "data": {
+                    "id": "1"
+                }
+            }
+        ]
+    },
     "homeTabs": {
         "status": "success",
         "data": [
