@@ -264,10 +264,8 @@
                 "type": "left_image_right_description_card",
                 "data": {
                     "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqgam0pij20a00d010b.jpg",
-                    "favorite_status": true,
-                    "video_name": "王牌校草",
-                    "video_id": "10",
-                    "video_description": "作品简介最多3行",
+                    "name": "王牌校草",
+                    "description": "作品简介最多3行",
                     "tag": "推荐 纯爱 休闲",
                     "action_url": "http://wwww.baidu.com",
                     "video_info": {
@@ -307,10 +305,8 @@
                 "type": "left_image_right_description_card",
                 "data": {
                     "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqgam0pij20a00d010b.jpg",
-                    "favorite_status": true,
-                    "video_name": "王牌校草",
-                    "video_id": "11",
-                    "video_description": "作品简介最多3行多余内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介",
+                    "name": "王牌校草",
+                    "description": "作品简介最多3行多余内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介",
                     "tag": "推荐 纯爱 休闲",
                     "action_url": "http://wwww.baidu.com",
                     "video_info": {
@@ -350,10 +346,8 @@
                 "type": "left_image_right_description_card",
                 "data": {
                     "image_url": "",
-                    "favorite_status": false,
-                    "video_name": "王牌校草 王牌校草 王牌校草 王牌校草 王牌校草",
-                    "video_id": "12",
-                    "video_description": "作品简介最多3行多余内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介",
+                    "name": "王牌校草 王牌校草 王牌校草 王牌校草 王牌校草",
+                    "description": "作品简介最多3行多余内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介",
                     "tag": "推荐 纯爱 休闲 推荐 纯爱 休闲 推荐 纯爱 休闲",
                     "action_url": "http://wwww.baidu.com"
                 }
