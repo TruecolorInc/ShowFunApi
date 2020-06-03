@@ -23,19 +23,20 @@
         "status": "success",
         "data": [
             {
-                "id": "id1",
-                "tab_name": "标签1"
+                "id": "1",
+                "title": "标签1"
             },
             {
-                "id": "id2",
-                "tab_name": "标签2"
+                "id": "2",
+                "title": "标签2"
             },
             {
+                "id": "3",
                 "tab_name": "标签3"
             },
             {
-                "id": "id4",
-                "tab_name": "标签4"
+                "id": "4",
+                "title": "标签4"
             }
         ]
     },
