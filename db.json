@@ -85,7 +85,7 @@
             {
                 "type": "title_card",
                 "data": {
-                    "name": "编辑推荐1",
+                    "title": "编辑推荐1",
                     "action_url": "http://wwww.baidu.com"
                 }
             },
@@ -98,14 +98,14 @@
                     "video_info": {
                         "video_id": 10,
                         "video_title": "往日不成往事",
-                        "followed": 0,
+                        "collected": 0,
                         "image_url": "http://pic.qiniu.showfun.mobi/images/project/videos/10/ede57804192b5f87743ef2f268eddcd7.jpg.webp",
                         "author": "",
                         "episode_count": 3,
                         "update_status_description": "更新至3集",
                         "description": "祝氏和邓氏的家族生意以儿女的婚姻为筹码，祝笙和邓邵涵两人由此开始了复杂的感情生活。",
                         "like_count": 0,
-                        "favorite_count": 0,
+                        "collect_count": 0,
                         "episodes": [
                             {
                                 "id": 336,
@@ -137,14 +137,14 @@
                     "video_info": {
                         "video_id": 2,
                         "video_title": "霸道校草爱上我",
-                        "followed": 0,
+                        "collected": 0,
                         "image_url": "http://pic.qiniu.showfun.mobi/images/project/videos/2/4cce6ebee6450901bda376097b214696.webp",
                         "author": "金地映画",
                         "episode_count": 3,
                         "update_status_description": "更新至3集",
                         "description": "最好的年纪遇见最好的你，命中注定的甜蜜爱情。",
                         "like_count": 0,
-                        "favorite_count": 0,
+                        "collect_count": 0,
                         "episodes": [
                             {
                                 "id": 3,
@@ -185,7 +185,7 @@
             {
                 "type": "title_card",
                 "data": {
-                    "name": "编辑推荐"
+                    "title": "编辑推荐"
                 }
             },
             {
@@ -198,14 +198,14 @@
                     "video_info": {
                         "video_id": 3,
                         "video_title": "穿成绿茶我翻车了",
-                        "followed": 0,
+                        "collected": 0,
                         "image_url": "http://pic.qiniu.showfun.mobi/images/project/videos/3/2b275f7e01ac172c83097fd038f40056.webp",
                         "author": "金地映画",
                         "episode_count": 3,
                         "update_status_description": "更新至3集",
                         "description": "别人穿越拿到的都是开挂女主剧本，为什么我成了恶毒绿茶女配郁萧？？\r\n新婚之夜，穿越而来的郁萧和霸总陆少执签订了假结婚的协议，由此开始了两人鸡飞狗跳的婚姻生活。\r\n就在两人萌生爱意，感情升温之时。姐姐言洛一直追查的医院黑色产业链事情有了进展，为了帮助姐姐，郁萧勇敢的与坏人郑医生展开了周旋.........",
                         "like_count": 0,
-                        "favorite_count": 0,
+                        "collect_count": 0,
                         "episodes": [
                             {
                                 "id": 77,
@@ -257,28 +257,28 @@
             {
                 "type": "title_card",
                 "data": {
-                    "name": "编辑推荐3"
+                    "title": "编辑推荐3"
                 }
             },
             {
                 "type": "left_image_right_description_card",
                 "data": {
                     "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqgam0pij20a00d010b.jpg",
-                    "name": "王牌校草",
+                    "title": "王牌校草",
                     "description": "作品简介最多3行",
                     "tag": "推荐 纯爱 休闲",
                     "action_url": "http://wwww.baidu.com",
                     "video_info": {
                         "video_id": 10,
                         "video_title": "往日不成往事",
-                        "followed": 0,
+                        "collected": 0,
                         "image_url": "http://pic.qiniu.showfun.mobi/images/project/videos/10/ede57804192b5f87743ef2f268eddcd7.jpg.webp",
                         "author": "",
                         "episode_count": 3,
                         "update_status_description": "更新至3集",
                         "description": "祝氏和邓氏的家族生意以儿女的婚姻为筹码，祝笙和邓邵涵两人由此开始了复杂的感情生活。",
                         "like_count": 0,
-                        "favorite_count": 0,
+                        "collect_count": 0,
                         "episodes": [
                             {
                                 "id": 336,
@@ -305,21 +305,21 @@
                 "type": "left_image_right_description_card",
                 "data": {
                     "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1geaqgam0pij20a00d010b.jpg",
-                    "name": "王牌校草",
+                    "title": "王牌校草",
                     "description": "作品简介最多3行多余内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介",
                     "tag": "推荐 纯爱 休闲",
                     "action_url": "http://wwww.baidu.com",
                     "video_info": {
                         "video_id": 11,
                         "video_title": "往日不成往事",
-                        "followed": 0,
+                        "collected": 1,
                         "image_url": "http://pic.qiniu.showfun.mobi/images/project/videos/10/ede57804192b5f87743ef2f268eddcd7.jpg.webp",
                         "author": "",
                         "episode_count": 3,
                         "update_status_description": "更新至3集",
                         "description": "祝氏和邓氏的家族生意以儿女的婚姻为筹码，祝笙和邓邵涵两人由此开始了复杂的感情生活。",
                         "like_count": 0,
-                        "favorite_count": 0,
+                        "collect_count": 0,
                         "episodes": [
                             {
                                 "id": 336,
@@ -346,7 +346,7 @@
                 "type": "left_image_right_description_card",
                 "data": {
                     "image_url": "",
-                    "name": "王牌校草 王牌校草 王牌校草 王牌校草 王牌校草",
+                    "title": "王牌校草 王牌校草 王牌校草 王牌校草 王牌校草",
                     "description": "作品简介最多3行多余内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介",
                     "tag": "推荐 纯爱 休闲 推荐 纯爱 休闲 推荐 纯爱 休闲",
                     "action_url": "http://wwww.baidu.com"
