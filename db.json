@@ -23,19 +23,17 @@
         "status": "success",
         "data": [
             {
-                "id": "arg1",
                 "type": "favorite_type",
                 "title": "追番"
             },
             {
-                "id": "arg2",
                 "type": "recommend_type",
                 "title": "推荐"
             },
             {
-                "id": "1",
                 "type": "hot_type",
-                "title": "热门"
+                "title": "热门",
+                "id": "1"
             }
         ]
     },
