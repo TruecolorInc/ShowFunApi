@@ -94,6 +94,12 @@
                     "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1gearoflizjj20df07cdmu.jpg",
                     "title": "小子做好觉悟吧!",
                     "action_url": "",
+                    "marker": {
+                        "text": "独家",
+                        "text_color": "#ffffff",
+                        "bg_start_color": "#ff4060d0",
+                        "bg_end_color": "#ffd099ff"
+                    },
                     "video_info": {
                         "video_id": 10,
                         "video_title": "往日不成往事",
@@ -178,6 +184,12 @@
                 "type": "one_column_card",
                 "data": {
                     "image_url": "http://ww1.sinaimg.cn/large/b03498f5gy1gearotjgh2j20rx08cn5i.jpg",
+                    "marker": {
+                        "text": "独家",
+                        "text_color": "#ffffff",
+                        "bg_start_color": "#ff4060d0",
+                        "bg_end_color": "#ffd099ff"
+                    },
                     "action_url": "http://wwww.baidu.com"
                 }
             },
@@ -194,6 +206,12 @@
                     "title": "校园纯情剧",
                     "sub_title": "推荐",
                     "action_url": "",
+                    "marker": {
+                        "text": "独家",
+                        "text_color": "#ffffff",
+                        "bg_start_color": "#ff4060d0",
+                        "bg_end_color": "#ffd099ff"
+                    },
                     "video_info": {
                         "video_id": 3,
                         "video_title": "穿成绿茶我翻车了",
@@ -307,6 +325,12 @@
                     "title": "王牌校草",
                     "description": "作品简介最多3行多余内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介内容号省略号内容多余简介简介",
                     "tag": "推荐 纯爱 休闲",
+                    "marker": {
+                        "text": "独家",
+                        "text_color": "#ffffff",
+                        "bg_start_color": "#ff4060d0",
+                        "bg_end_color": "#ffd099ff"
+                    },
                     "action_url": "http://wwww.baidu.com",
                     "video_info": {
                         "video_id": 11,
