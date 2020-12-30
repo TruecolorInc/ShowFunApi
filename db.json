@@ -1194,5 +1194,328 @@
                 }
             }
         ]
+    },
+    "homeRecommend": {
+        "status": "success",
+        "timestamp": 12323423,
+        "data": [
+            {
+                "type": "banner_card",
+                "data": {
+                    "items": [
+                        {
+                            "image_url": "",
+                            "action_url": "",
+                            "track_data": "",
+                            "old_track_data": {
+                                "category_id": 1
+                            }
+                        },
+                        {}
+                    ]
+                }
+            },
+            {
+                "type": "one_card",
+                "data": {
+                    "title": "",
+                    "more": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "more_action_url": ""
+                    },
+                    "take_turns": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "next_request_param": "下次请求所需的参数"
+                    },
+                    "items": [
+                        {
+                            "image_url": "",
+                            "action_url": "",
+                            "title": "",
+                            "sub_title": "",
+                            "track_data": "",
+                            "old_track_data": {
+                                "category_id": 1
+                            }
+                        },
+                        {}
+                    ]
+                }
+            },
+            {
+                "type": "one_big_card",
+                "data": {
+                    "title": "",
+                    "more": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "more_action_url": ""
+                    },
+                    "take_turns": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "next_request_param": "下次请求所需的参数"
+                    },
+                    "items": [
+                        {
+                            "image_url": "",
+                            "action_url": "",
+                            "title": "",
+                            "sub_title": "",
+                            "track_data": "",
+                            "old_track_data": {
+                                "category_id": 1
+                            }
+                        },
+                        {}
+                    ]
+                }
+            },
+            {
+                "type": "two_card",
+                "data": {
+                    "title": "",
+                    "more": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "more_action_url": ""
+                    },
+                    "take_turns": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "next_request_param": "下次请求所需的参数"
+                    },
+                    "items": [
+                        {
+                            "image_url": "",
+                            "action_url": "",
+                            "title": "",
+                            "sub_title": "",
+                            "track_data": "",
+                            "old_track_data": {
+                                "category_id": 1
+                            }
+                        },
+                        {}
+                    ]
+                }
+            },
+            {
+                "type": "two_big_card",
+                "data": {
+                    "title": "",
+                    "more": {
+                        "image_url": "",
+                        "action_url": "",
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "more_action_url": ""
+                    },
+                    "take_turns": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "next_request_param": "下次请求所需的参数"
+                    },
+                    "items": [
+                        {
+                            "image_url": "",
+                            "action_url": "",
+                            "title": "",
+                            "sub_title": "",
+                            "track_data": "",
+                            "old_track_data": {
+                                "category_id": 1
+                            }
+                        },
+                        {}
+                    ]
+                }
+            },
+            {
+                "type": "three_card",
+                "data": {
+                    "title": "",
+                    "more": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "more_action_url": ""
+                    },
+                    "take_turns": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "next_request_param": "下次请求所需的参数"
+                    },
+                    "items": [
+                        {
+                            "image_url": "",
+                            "action_url": "",
+                            "title": "",
+                            "sub_title": "",
+                            "track_data": "",
+                            "old_track_data": {
+                                "category_id": 1
+                            }
+                        },
+                        {}
+                    ]
+                }
+            },
+            {
+                "type": "horizontal_scroll_card",
+                "data": {
+                    "title": "",
+                    "more": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "more_action_url": ""
+                    },
+                    "take_turns": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "next_request_param": "下次请求所需的参数"
+                    },
+                    "items": [
+                        {
+                            "image_url": "",
+                            "action_url": "",
+                            "title": "",
+                            "sub_title": "",
+                            "bottom_background_color": "#ff00ff",
+                            "track_data": "",
+                            "old_track_data": {
+                                "category_id": 1
+                            }
+                        },
+                        {}
+                    ]
+                }
+            },
+            {
+                "type": "left_text_right_image_card",
+                "data": {
+                    "title": "",
+                    "more": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "more_action_url": ""
+                    },
+                    "take_turns": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "next_request_param": "下次请求所需的参数"
+                    },
+                    "items": [
+                        {
+                            "image_url": "",
+                            "action_url": "",
+                            "title": "",
+                            "sub_title": "",
+                            "track_data": "",
+                            "old_track_data": {
+                                "category_id": 1
+                            }
+                        },
+                        {}
+                    ]
+                }
+            },
+            {
+                "type": "left_image_right_text_card",
+                "data": {
+                    "title": "",
+                    "more": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "more_action_url": ""
+                    },
+                    "take_turns": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "next_request_param": "下次请求所需的参数"
+                    },
+                    "items": [
+                        {
+                            "image_url": "",
+                            "action_url": "",
+                            "title": "",
+                            "sub_title": "",
+                            "description": "",
+                            "track_data": "",
+                            "old_track_data": {
+                                "category_id": 1
+                            }
+                        },
+                        {}
+                    ]
+                }
+            },
+            {
+                "type": "one_big_three_small_card",
+                "data": {
+                    "title": "",
+                    "more": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "more_action_url": ""
+                    },
+                    "take_turns": {
+                        "track_data": "",
+                        "old_track_data": {
+                            "category_id": 1
+                        },
+                        "next_request_param": "下次请求所需的参数"
+                    },
+                    "items": [
+                        {
+                            "image_url": "",
+                            "action_url": "",
+                            "title": "",
+                            "sub_title": "",
+                            "track_data": "",
+                            "old_track_data": {
+                                "category_id": 1
+                            }
+                        },
+                        {}
+                    ]
+                }
+            }
+        ]
     }
 }
