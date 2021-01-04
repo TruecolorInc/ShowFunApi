@@ -1233,13 +1233,13 @@
             {
                 "type": "one_card",
                 "data": {
-                    "title": "",
+                    "title": "One Card",
                     "more": {
                         "track_data": "",
                         "old_track_data": {
                             "category_id": 1
                         },
-                        "more_action_url": ""
+                        "more_action_url": "http://www.baidu.com"
                     },
                     "take_turns": {
                         "track_data": "",
@@ -1295,13 +1295,13 @@
             {
                 "type": "one_big_card",
                 "data": {
-                    "title": "",
+                    "title": "One Big Card",
                     "more": {
                         "track_data": "",
                         "old_track_data": {
                             "category_id": 1
                         },
-                        "more_action_url": ""
+                        "more_action_url": "http://www.baidu.com"
                     },
                     "take_turns": {
                         "track_data": "",
@@ -1357,13 +1357,13 @@
             {
                 "type": "two_card",
                 "data": {
-                    "title": "",
+                    "title": "Two Card",
                     "more": {
                         "track_data": "",
                         "old_track_data": {
                             "category_id": 1
                         },
-                        "more_action_url": ""
+                        "more_action_url": "http://www.baidu.com"
                     },
                     "take_turns": {
                         "track_data": "",
@@ -1419,15 +1419,13 @@
             {
                 "type": "two_big_card",
                 "data": {
-                    "title": "",
+                    "title": "Two Big Card",
                     "more": {
-                        "image_url": "",
-                        "action_url": "",
                         "track_data": "",
                         "old_track_data": {
                             "category_id": 1
                         },
-                        "more_action_url": ""
+                        "more_action_url": "http://www.baidu.com"
                     },
                     "take_turns": {
                         "track_data": "",
@@ -1483,13 +1481,13 @@
             {
                 "type": "three_card",
                 "data": {
-                    "title": "",
+                    "title": "Three Card",
                     "more": {
                         "track_data": "",
                         "old_track_data": {
                             "category_id": 1
                         },
-                        "more_action_url": ""
+                        "more_action_url": "http://www.baidu.com"
                     },
                     "take_turns": {
                         "track_data": "",
@@ -1561,13 +1559,13 @@
             {
                 "type": "horizontal_scroll_card",
                 "data": {
-                    "title": "",
+                    "title": "Horizontal Scroll Card",
                     "more": {
                         "track_data": "",
                         "old_track_data": {
                             "category_id": 1
                         },
-                        "more_action_url": ""
+                        "more_action_url": "http://www.baidu.com"
                     },
                     "take_turns": {
                         "track_data": "",
@@ -1638,13 +1636,13 @@
             {
                 "type": "left_text_right_image_card",
                 "data": {
-                    "title": "",
+                    "title": "Left Text Right Image Card",
                     "more": {
                         "track_data": "",
                         "old_track_data": {
                             "category_id": 1
                         },
-                        "more_action_url": ""
+                        "more_action_url": "http://www.baidu.com"
                     },
                     "take_turns": {
                         "track_data": "",
@@ -1690,13 +1688,13 @@
             {
                 "type": "left_image_right_text_card",
                 "data": {
-                    "title": "",
+                    "title": "Left Image Right Text Card",
                     "more": {
                         "track_data": "",
                         "old_track_data": {
                             "category_id": 1
                         },
-                        "more_action_url": ""
+                        "more_action_url": "http://www.baidu.com"
                     },
                     "take_turns": {
                         "track_data": "",
@@ -1756,13 +1754,13 @@
             {
                 "type": "one_big_three_small_card",
                 "data": {
-                    "title": "",
+                    "title": "One Big Three Small Card",
                     "more": {
                         "track_data": "",
                         "old_track_data": {
                             "category_id": 1
                         },
-                        "more_action_url": ""
+                        "more_action_url": "http://www.baidu.com"
                     },
                     "take_turns": {
                         "track_data": "",
