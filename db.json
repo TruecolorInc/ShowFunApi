@@ -1,4 +1,16 @@
 {
+    "homePopup": {
+        "ui": {
+            "style": 1,
+            "content": {
+                "id": 1,
+                "click_url": "",
+                "title": "我是标题",
+                "expired_time": 123456,
+                "key": ""
+            }
+        }
+    },
     "homeTabs": {
         "status": "success",
         "data": [
