@@ -16,7 +16,7 @@
         "data": [
             {
                 "type": "favorite_type",
-                "title": "追番1"
+                "title": "追番123"
             },
             {
                 "type": "recommend_type",
@@ -25,7 +25,7 @@
             {
                 "type": "hot_type",
                 "title": "热门",
-                "id": "1"
+                "id": "12"
             }
         ]
     },
